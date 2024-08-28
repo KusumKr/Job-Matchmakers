@@ -11,15 +11,13 @@
 <br>
 3. Technologies used
 <br>
-4. Usage
+4. Contributing
 <br>
-5. Contributing
+5. License
 <br>
-6. License
+6. Author
 <br>
-7. Author
-<br>
-8. Glimpse
+7. Glimpse
 <br>
 
 <h1>Project Overview</h1>
@@ -27,7 +25,6 @@
 <br>
 
 <h1>Features</h1>
-
 <p>* This a pioneering AI-powered platform designed to revoluntize the job search experience.<p>
 <p>* It aims to streamline the job application process by providing users with personalized job recommendations based on their resume content.<p>
 <p>* This is only the frontend implementation where we can add the respected file at "Get Started for free" button. <p>
@@ -41,7 +38,12 @@
 <br>
 3. JavaScript : For logic implementation.
 <br>
-
+<h1>Contributing</h1>
+<p>Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.</p>
+<br>
+<h1>License</h1>
+<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
+<br>
 <h1>Author</h1>
 <br>
 * Kusum Kharayat
